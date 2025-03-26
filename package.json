@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ducampcarlos/Node-rest-api/issues"
   },
-  "homepage": "https://github.com/ducampcarlos/Node-rest-api#readme"
+  "homepage": "https://github.com/ducampcarlos/Node-rest-api#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
