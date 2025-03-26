@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/ducampcarlos/Node-rest-api#readme",
   "dependencies": {
-    "express": "^4.21.2"
+    "ajv": "^8.17.1",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "sequelize": "^6.37.6",
+    "sqlite3": "^5.1.7"
   }
 }
